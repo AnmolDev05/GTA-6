@@ -14,8 +14,8 @@
   height: 100vh;
   overflow: hidden;
 
-  -webkit-mask-image: url("/images/mask.svg");
-  mask-image: url("/images/mask.svg");
+  -webkit-mask-image: url("images/mask.svg");
+  mask-image: url("images/mask.svg");
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
